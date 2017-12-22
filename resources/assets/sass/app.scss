@@ -121,3 +121,11 @@ input, textarea, select, .uneditable-input {
   .panel {
     margin-top: 50px;
   }
+
+/* header */
+#logout {
+  cursor: default;
+  &:hover {
+    background-color: transparent;
+  }
+}
